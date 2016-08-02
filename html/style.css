@@ -1,0 +1,37 @@
+header {
+        text-align: center;
+        background: url("https://a4-images.myspacecdn.com/images03/35/cfbd62e2293d4a8fa692ea2f053e9a32/300x300.jpg");
+        background-size: cover;
+        color: red;
+        height: 700px;
+        width: auto;
+    }
+    a {
+      color: red;
+    }
+    h1 {
+      font-size: 70px;
+    }
+    img {
+      margin: 40px 0px 0px 0px;
+      border: 7px solid white;
+      border-radius: 20px;
+    }
+    ul {
+      padding: 10px;
+      background: red;
+      margin:0px;
+      overflow: hidden;
+      background-color: #333;
+      color: white;
+
+      
+    }
+    li {
+      display:inline;
+      padding: 0px 10px 0px 10px;
+    }
+    .ProfilePic{
+      height: 200px;
+      width: 200px;
+    }
